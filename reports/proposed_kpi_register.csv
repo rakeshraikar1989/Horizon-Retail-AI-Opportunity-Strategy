@@ -1,0 +1,7 @@
+Measure,Unit and denominator,Case baseline / status,Proposed target,Evidence source,Proposed owner,Cadence,Action if missed
+Average first-response delay,Hours per enquiry,10 hours,≤7 hours (≥30% reduction),Timestamped enquiry logs,Customer service owner,Weekly,Investigate bottlenecks; revise workflow
+Policy-grounded answer accuracy,Correct reviewed drafts / reviewed drafts,Not measured,≥95%,Reviewed and labeled draft sample,Policy owner,Weekly,Pause or revise if unsupported drafts recur
+Required human escalation,Escalated flagged cases / flagged cases,Not measured,100%,Escalation register,Customer service owner,Weekly,Pause and correct missed escalations
+Staff approval,Approved drafts / sent AI-assisted replies,Not measured,100%,Approval audit log,Customer service owner,Weekly,Stop unauthorized auto-sends
+Unresolved critical privacy incidents,Count,Not measured,0,Privacy incident log,Privacy owner,Immediate,Pause pilot and investigate
+Budget ceiling,₹ lakh first-year committed + spent,No actual expenditure reported,≤20,Finance records,Sponsor / finance,At each gate,Re-scope or seek approval

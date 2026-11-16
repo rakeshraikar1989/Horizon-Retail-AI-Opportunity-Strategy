@@ -1,0 +1,4 @@
+Phase,Focus,Evidence to collect,Decision gate
+Days 1–30,Readiness and baselines,"Confirm policies, data permissions, staff ownership, test cases and baseline","Go only if source accuracy, privacy and escalation controls are acceptable"
+Days 31–60,Controlled testing,"Test draft quality, unsupported answers, escalations and staff workflow",Revise or pause if accuracy/controls fail; no unsupervised sending
+Days 61–90,Supervised pilot and evaluation,"Monitor response times, review accuracy, cost, incidents and non-AI comparator","Continue, revise or stop based on measured evidence and approver decision"

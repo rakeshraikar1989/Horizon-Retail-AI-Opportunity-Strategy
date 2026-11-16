@@ -1,0 +1,5 @@
+Area,Proposed owner,Known availability/gap,Pre-pilot closure action
+Inventory,Inventory / merchandising owner,18 months of records; 15% stock-count gaps,Check completeness by store/product/time; reconcile counts; validate demand labels
+Customer enquiries,Customer service + policy owner,"8,000 monthly enquiries; approved policy corpus not verified","Approve policy versions; prepare representative, privacy-reviewed test cases"
+Marketing,Marketing + privacy owner,"50,000 records; 65% consent recorded","Verify lawful purpose, consent scope, quality and suppression rules"
+Shelf inspection,Store operations owner,No usable image dataset,Standardize inspections; assess permissioned image collection and labeling

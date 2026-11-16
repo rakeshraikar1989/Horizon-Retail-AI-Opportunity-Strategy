@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
+.env
+*.pyc
+.DS_Store
+Horizon_Retail_Project_Fresh_Copy.zip
+*.zip
+backup_before_final_improvements/

@@ -1,0 +1,27 @@
+{
+  "organization": "Horizon Retail (fictional)",
+  "stores": 12,
+  "annual_sales_inr_crore": 30,
+  "first_year_ai_budget_inr_lakh": 20,
+  "allowed_initial_pilots": 1,
+  "inventory": {
+    "unavailable_requested_items_pct": 6,
+    "annual_writeoffs_inr_lakh": 45,
+    "history_months": 18,
+    "missing_stock_count_entries_pct": 15
+  },
+  "customer_enquiries": {
+    "monthly_enquiries": 8000,
+    "average_first_response_hours": 10,
+    "routine_policy_enquiries_pct": 60
+  },
+  "marketing": {
+    "customer_records": 50000,
+    "conversion_pct": 2,
+    "recorded_consent_pct": 65
+  },
+  "store_inspection": {
+    "hours_per_store_per_day": 2,
+    "usable_image_dataset": false
+  }
+}

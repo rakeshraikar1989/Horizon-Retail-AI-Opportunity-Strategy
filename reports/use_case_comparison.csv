@@ -1,0 +1,5 @@
+Use case,AI approach,Business problem,Data required,Main readiness gap,Non-AI alternative
+Inventory Demand Forecasting,Forecasting / supervised ML,Stock replenishment and write-offs,"Sales and stock histories; product, store and time identifiers",15% missing stock-count entries,Improve stock counts and reorder-point rules
+Customer Enquiry Automation,Language AI / grounded response drafting,10-hour first-response delay; 60% routine policy queries,Current approved policies and representative enquiries,"Policy accuracy, permission and test coverage unverified",Improve FAQs and response templates
+AI-Assisted Marketing,Segmentation / propensity modeling,2% campaign conversion,Consented customer records and campaign outcomes,Consent recorded for only 65%,Clean records and run consent-compliant manual segments
+AI-Assisted Store Inspection,Computer vision,2 hours/store/day manual shelf checks,"Consistent, permissioned and labeled shelf images",No usable shelf-image dataset,Standardized digital inspection checklist

@@ -1,0 +1,21 @@
+Use Case,Criterion,Original score,Portfolio rationale (interpretive)
+Inventory Demand Forecasting,Business Value,5,Large write-offs and item unavailability create material value potential.
+Inventory Demand Forecasting,Data Readiness,3,"18 months of records exist, but 15% of stock-count entries are missing."
+Inventory Demand Forecasting,Feasibility,3,Possible after reconciliation and forecasting setup; integration not established.
+Inventory Demand Forecasting,Risk Manageability,3,Forecast errors and replenishment decisions require controls and review.
+Inventory Demand Forecasting,Time to Value,3,"A 90-day evaluation is plausible after data repair, not assured."
+Customer Enquiry Automation,Business Value,4,High enquiry volume and long response delays support operational value.
+Customer Enquiry Automation,Data Readiness,3,Policy sources and representative test enquiries need validation.
+Customer Enquiry Automation,Feasibility,4,Limited staff-reviewed drafting is feasible without autonomous actions.
+Customer Enquiry Automation,Risk Manageability,4,"Human approval and escalation can constrain, not eliminate, risks."
+Customer Enquiry Automation,Time to Value,4,Routine questions offer an early measurable supervised test.
+AI-Assisted Marketing,Business Value,4,Low conversion suggests a meaningful optimization opportunity.
+AI-Assisted Marketing,Data Readiness,2,Only 65% have recorded consent; suitability is not established.
+AI-Assisted Marketing,Feasibility,3,Segmentation is feasible if permitted data and outcomes are verified.
+AI-Assisted Marketing,Risk Manageability,2,Consent and targeting risks require strict privacy governance.
+AI-Assisted Marketing,Time to Value,3,Campaign experiments could be measured within a pilot after checks.
+AI-Assisted Store Inspection,Business Value,3,"Manual checks consume staff time, but benefit magnitude is unverified."
+AI-Assisted Store Inspection,Data Readiness,1,No usable labeled shelf-image dataset exists.
+AI-Assisted Store Inspection,Feasibility,2,Image collection and computer-vision development add complexity.
+AI-Assisted Store Inspection,Risk Manageability,3,"Human review can mitigate false flags, though data capture risks remain."
+AI-Assisted Store Inspection,Time to Value,2,Data collection makes quick validation less likely.

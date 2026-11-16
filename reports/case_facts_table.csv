@@ -1,0 +1,14 @@
+Metric,Case value,Unit
+Stores,12,stores
+Annual sales,30,₹ crore
+First-year AI budget,20,₹ lakh
+Inventory unavailability,6,% of requested items
+Annual write-offs,45,₹ lakh
+Missing stock-count entries,15,%
+Monthly enquiries,8000,enquiries
+Average first response,10,hours
+Routine policy enquiries,60,%
+Marketing records,50000,records
+Marketing conversion,2,%
+Recorded marketing consent,65,%
+Shelf checking,2,hours/store/day
